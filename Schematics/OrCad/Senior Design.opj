@@ -1,0 +1,210 @@
+(ExpressProject "Senior Design"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\smartbikelibrary.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\senior design.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    ("MOSFET N"
+      (FullPartName "MOSFET N.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName
+         "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (DIODE
+      (FullPartName "DIODE.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("3.3v LM3940IT"
+      (FullPartName "3.3v LM3940IT.Normal")
+      (LibraryName
+         "C:\USERS\DYLAN\DOCUMENTS\SCHOOL\ESE 441\SCHEMATICS\SMARTBIKELIBRARY.OLB")
+      (DeviceIndex "0"))
+    ("5v MIC2937A"
+      (FullPartName "5v MIC2937A.Normal")
+      (LibraryName
+         "C:\USERS\DYLAN\DOCUMENTS\SCHOOL\ESE 441\SCHEMATICS\SMARTBIKELIBRARY.OLB")
+      (DeviceIndex "0"))
+    (Battery
+      (FullPartName "Battery.Normal")
+      (LibraryName
+         "C:\USERS\DYLAN\DOCUMENTS\SCHOOL\ESE 441\SCHEMATICS\SMARTBIKELIBRARY.OLB")
+      (DeviceIndex "0"))
+    (Generator
+      (FullPartName "Generator.Normal")
+      (LibraryName
+         "C:\USERS\DYLAN\DOCUMENTS\SCHOOL\ESE 441\SCHEMATICS\SMARTBIKELIBRARY.OLB")
+      (DeviceIndex "0"))
+    (Jtag
+      (FullPartName "Jtag.Normal")
+      (LibraryName
+         "C:\USERS\DYLAN\DOCUMENTS\SCHOOL\ESE 441\SCHEMATICS\SMARTBIKELIBRARY.OLB")
+      (DeviceIndex "0"))
+    (IRL540N
+      (FullPartName "IRL540N.Normal")
+      (LibraryName
+         "C:\USERS\DYLAN\DOCUMENTS\SCHOOL\ESE 441\SCHEMATICS\SMARTBIKELIBRARY.OLB")
+      (DeviceIndex "0"))
+    (OH090U
+      (FullPartName "OH090U.Normal")
+      (LibraryName
+         "C:\USERS\DYLAN\DOCUMENTS\SCHOOL\ESE 441\SCHEMATICS\SMARTBIKELIBRARY.OLB")
+      (DeviceIndex "0"))
+    (MicroMaestro
+      (FullPartName "MicroMaestro.Normal")
+      (LibraryName
+         "C:\USERS\DYLAN\DOCUMENTS\SCHOOL\ESE 441\SCHEMATICS\SMARTBIKELIBRARY.OLB")
+      (DeviceIndex "0"))
+    (Buttons
+      (FullPartName "Buttons.Normal")
+      (LibraryName
+         "C:\USERS\DYLAN\DOCUMENTS\SCHOOL\ESE 441\SCHEMATICS\SMARTBIKELIBRARY.OLB")
+      (DeviceIndex "0"))
+    (Servo
+      (FullPartName "Servo.Normal")
+      (LibraryName
+         "C:\USERS\DYLAN\DOCUMENTS\SCHOOL\ESE 441\SCHEMATICS\SMARTBIKELIBRARY.OLB")
+      (DeviceIndex "0"))
+    (N-Mosfet
+      (FullPartName "N-Mosfet.Normal")
+      (LibraryName
+         "C:\USERS\DYLAN\DOCUMENTS\SCHOOL\ESE 441\SCHEMATICS\SMARTBIKELIBRARY.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0")) <<<<<<< .mine =======
+    ("3.3v Regulator"
+      (FullPartName "3.3v Regulator.Normal")
+      (LibraryName
+         "C:\USERS\DYLAN\DOCUMENTS\SCHOOL\ESE 441\SCHEMATICS\SMARTBIKELIBRARY.OLB")
+      (DeviceIndex "0"))
+    ("3.3 Volt Regulator"
+      (FullPartName "3.3 Volt Regulator.Normal")
+      (LibraryName
+         "C:\USERS\DYLAN\DOCUMENTS\SCHOOL\ESE 441\SCHEMATICS\SMARTBIKELIBRARY.OLB")
+      (DeviceIndex "0"))
+    ("5v Regulator"
+      (FullPartName "5v Regulator.Normal")
+      (LibraryName
+         "C:\USERS\DYLAN\DOCUMENTS\SCHOOL\ESE 441\SCHEMATICS\SMARTBIKELIBRARY.OLB")
+      (DeviceIndex "0"))
+    ("SW PUSHBUTTON"
+      (FullPartName "SW PUSHBUTTON.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0")) >>>>>>> .r58
+    (MPU6050
+      (FullPartName "MPU6050.Normal")
+      (LibraryName
+         "C:\USERS\FRANK\SCHOOL\WORK\SPRING 2014\ESE 441\SENIOR_DESIGN\SCHEMATICS\SMARTBIKELIBRARY.OLB")
+      (DeviceIndex "0"))
+    (RN42-XV
+      (FullPartName "RN42-XV.Normal")
+      (LibraryName
+         "C:\USERS\FRANK\SCHOOL\WORK\SPRING 2014\ESE 441\SENIOR_DESIGN\SCHEMATICS\SMARTBIKELIBRARY.OLB")
+      (DeviceIndex "0"))
+    (XM/SM
+      (FullPartName "XM/SM.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (ATMega128
+      (FullPartName "ATMega128.Normal")
+      (LibraryName
+         "C:\USERS\FRANK\SCHOOL\WORK\SPRING 2014\ESE 441\SENIOR_DESIGN\SCHEMATICS\SMARTBIKELIBRARY.OLB")
+      (DeviceIndex "0"))
+    (PORTBOTH-L
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\senior design.dsn")
+      (Path "Design Resources" ".\senior design.dsn" "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Select "Design Resources" ".\senior design.dsn" "SCHEMATIC1" "Power"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 250 0 625"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 25 1182 25 323")
+        (Scroll "-69 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\FRANK\SCHOOL\WORK\SPRING 2014\ESE 441\SENIOR_DESIGN\FINAL\SCHEMATICS\ORCAD\SENIOR DESIGN.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "128 schematic"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 50 1211 50 352")
+        (Scroll "-142 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\FRANK\SCHOOL\WORK\SPRING 2014\ESE 441\SENIOR_DESIGN\FINAL\SCHEMATICS\ORCAD\SENIOR DESIGN.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "Power"))) >>>>>>> .r112
+  (HierarchyView)
+  (Doc
+    (Type "COrCapturePMDoc")
+    (Frame
+      (Placement "44 0 1 -1 -1 -1 -1 0 250 0 914"))
+    (Tab 0))
+  (Doc
+    (Type "COrSchematicDoc")
+    (Frame
+      (Placement "44 2 3 -1 -1 -9 -38 64 1744 64 552")
+      (Scroll "-137 0")
+      (Zoom "100")
+      (Occurrence "/"))
+    (Path
+       "C:\USERS\DYLAN\DOCUMENTS\SCHOOL\ESE 441\SCHEMATICS\SENIOR DESIGN.DSN")
+    (Schematic "SCHEMATIC1") <<<<<<< .mine
+    (Page "Power"))
+  (Doc
+    (Type "COrSchematicDoc")
+    (Frame
+      (Placement "44 2 3 -1 -1 -8 -30 50 955 50 352")
+      (Scroll "943 87")
+      (Zoom "200")
+      (Occurrence "/"))
+    (Path
+       "C:\USERS\FRANK\SCHOOL\WORK\SPRING 2014\ESE 441\SENIOR_DESIGN\SCHEMATICS\SENIOR DESIGN.DSN")
+    (Schematic "SCHEMATIC1") ======= >>>>>>> .r112
+    (Page "128 schematic"))
+  (MPSSessionName "Frank"))

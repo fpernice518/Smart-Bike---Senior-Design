@@ -1,2 +1,13 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+Paper/* linguist-documentation
+Schematics/* linguist-documentation
+"Datasheets and Users Guides/*" linguist-documentation
+Pictures/* linguist-documentation
+Poster/* linguist-documentation
+Presentation/* linguist-documentation
+
+"Android App/*" linguist-vendored
+
+*.html linguist-documentation
